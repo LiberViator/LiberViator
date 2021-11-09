@@ -6,21 +6,21 @@
 
 ## <samp> I speak 🎙</samp>
 
-<samp>🇬🇧 **English** (Upper Intermediate)</samp>
+<samp>🇬🇧 **English** [Upper Intermediate]</samp>
 
-<samp>🇵🇱 **Polish** (Advanced)</samp>
+<samp>🇵🇱 **Polish** [Advanced]</samp>
 
-<samp>🇷🇺 **Russian** (Proficient)</samp>
+<samp>🇷🇺 **Russian** [Proficient]</samp>
 
-<samp>🇺🇦 **Ukrainian** (Native)</samp>
+<samp>🇺🇦 **Ukrainian** [Native]</samp>
 
 ## <samp> I code 💻</samp>
 
-<samp>**HTML5** (Proficient)</samp>
+<samp>**HTML5** [Proficient]</samp>
 
-<samp>**CSS3** (Proficient)</samp>
+<samp>**CSS3** [Proficient]</samp>
 
-<samp>**JavaScript** (Novice)</samp>
+<samp>**JavaScript** [Novice]</samp>
   
 ## <samp> Contact Me ☎️</samp>
 <samp>[Mail Me](mailto:nazar.poplavsky@gmail.com) | [LinkedIn](https://www.linkedin.com/in/npko/) | [Instagram](https://www.instagram.com/n.pko/)</samp>
