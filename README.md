@@ -6,7 +6,7 @@
 
 <samp>I prefer working in a groups of 2-4 people, which lets me use all my creativity and productiveness.
 
-### <samp> I speak 🗣
+## <samp> I speak 🗣
 
 <samp>🇬🇧 **English** (Upper Intermediate)
 
