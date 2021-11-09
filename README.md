@@ -25,4 +25,4 @@
 <samp>**JavaScript** (Novice)</samp>
   
 ## <samp> Contact Me ☎️</samp>
-<samp>[Mail Me](mailto:nazar.poplavsky@gmail.com) | [LinkedIn](https://www.linkedin.com/in/npko/) | [Instagram](https://www.instagram.com/n.pko/) | [Website](https://nazar.uno)
+<samp>[Mail Me](mailto:nazar.poplavsky@gmail.com) | [LinkedIn](https://www.linkedin.com/in/npko/) | [Instagram](https://www.instagram.com/n.pko/)</samp>
