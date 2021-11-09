@@ -4,8 +4,6 @@
 
 <samp>Currently learning **HTML5**, **CSS3**, and **JavaScript**.</samp>
 
-<samp>I prefer working in a groups of 2-4 people, which lets me use all my creativity and productiveness.</samp>
-
 ## <samp> I speak 🎙</samp>
 
 <samp>🇬🇧 **English** (Upper Intermediate)</samp>
