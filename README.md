@@ -2,7 +2,7 @@
 
 <samp>I'm interested in creating an appearance and functionality for websites & web applications.</samp>
 
-<samp>Currently learning **JavaScript**.</samp>
+<samp>Currently learning **JavaScript** & **React**.</samp>
 
 ## <samp> I speak 🎙</samp>
 
