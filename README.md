@@ -1,8 +1,8 @@
 # <samp> Hi, I'm Nazar 🙋🏻‍♂️</samp>
 
-<samp>I'm interested in creating an appearance and functionality for websites & web applications.</samp>
+<samp>I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with.</samp>
 
-<samp>Currently learning **JavaScript** & **React**.</samp>
+<samp>Currently, learning **JavaScript** & **React**.</samp>
 
 ## <samp> I speak 🎙</samp>
 
