@@ -25,4 +25,7 @@
 <samp>**React**</samp>
   
 ## <samp> Contact Me ☎️</samp>
-<samp>[Mail Me](mailto:nazar.poplavsky@gmail.com) | [LinkedIn](https://www.linkedin.com/in/npko/)</samp>
+<samp>[Mail Me][mail_link] | [LinkedIn][linkedin_link]</samp>
+
+[mail_link]: mailto:nazar.poplavsky@gmail.com
+[linkedin_link]: https://www.linkedin.com/in/npko/
