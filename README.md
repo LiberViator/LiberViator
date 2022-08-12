@@ -1,31 +1,35 @@
-# <samp> Hi, I'm Nazar 🙋🏻‍♂️</samp>
+# Hi, I'm Nazar 🙋🏻‍♂️
 
-<samp>I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with.</samp>
+I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
 
-<samp>Currently, learning **JavaScript** & **React**.</samp>
+**Check my last project** 👇
+<br>
+[E-commerce hiking website][link_project]
 
-## <samp> I speak 🎙</samp>
+## I speak 🎙
 
-<samp>🇬🇧 **English** [Upper Intermediate]</samp>
+🇬🇧 **English** [Upper Intermediate]
+<br>
+🇵🇱 **Polish** [Advanced]
+<br>
+🇷🇺 **Russian** [Proficient]
+<br>
+🇺🇦 **Ukrainian** [Native]
 
-<samp>🇵🇱 **Polish** [Advanced]</samp>
+## I code 💻
 
-<samp>🇷🇺 **Russian** [Proficient]</samp>
+**HTML5**
+<br>
+**CSS3**
+<br>
+**JavaScript**
+<br>
+**React**
 
-<samp>🇺🇦 **Ukrainian** [Native]</samp>
+## Contact Me ☎️
 
-## <samp> I code 💻</samp>
+[Mail Me][link_mail] | [LinkedIn][link_linkedin]
 
-<samp>**HTML5**</samp>
-
-<samp>**CSS3**</samp>
-
-<samp>**JavaScript**</samp>
-
-<samp>**React**</samp>
-  
-## <samp> Contact Me ☎️</samp>
-<samp>[Mail Me][mail_link] | [LinkedIn][linkedin_link]</samp>
-
-[mail_link]: mailto:nazar.poplavsky@gmail.com
-[linkedin_link]: https://www.linkedin.com/in/npko/
+[link_project]: https://github.com/LiberViator/ecommerce-website
+[link_mail]: mailto:nazar.poplavsky@gmail.com
+[link_linkedin]: https://www.linkedin.com/in/npko/
