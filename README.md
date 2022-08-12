@@ -30,6 +30,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 [Mail Me][link_mail] | [LinkedIn][link_linkedin]
 
+<!-- Links -->
 [link_project]: https://github.com/LiberViator/ecommerce-website
 [link_mail]: mailto:nazar.poplavsky@gmail.com
 [link_linkedin]: https://www.linkedin.com/in/npko/
