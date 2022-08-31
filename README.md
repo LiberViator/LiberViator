@@ -4,7 +4,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 **Check my last project** 👇
 <br>
-[E-commerce hiking website][link_project]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiberViator&repo=ecommerce-website)][link_project]
 
 ## I speak 🎙
 
