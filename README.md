@@ -8,13 +8,13 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## I speak 🎙
 
-🇬🇧 **English** [Upper Intermediate]
+**English** [Upper Intermediate]
 <br>
-🇵🇱 **Polish** [Advanced]
+**Polish** [Advanced]
 <br>
-🇷🇺 **Russian** [Proficient]
+**Russian** [Proficient]
 <br>
-🇺🇦 **Ukrainian** [Native]
+**Ukrainian** [Native]
 
 ## I code 💻
 
