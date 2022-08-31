@@ -4,7 +4,6 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 **Check my last project** 👇
 <br>
-<br>
 [E-commerce hiking website][link_project]
 
 ## I speak 🎙
