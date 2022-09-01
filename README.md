@@ -1,4 +1,4 @@
-# Hi, I'm Nazar 🙋🏻‍♂️
+<img src="header.png" width="100%">
 
 I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
 
