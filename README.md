@@ -1,4 +1,4 @@
-<img src="header.png" width="100%">
+# Hi, I'm Nazar 🙋🏻‍♂️
 
 I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
 
@@ -6,27 +6,21 @@ I'm interested in creating an appearance and functionality for websites & web ap
 <br>
 [E-commerce hiking website][link_project]
 
-## I speak 🎙
+## 🎙 I speak 
 
-**English** [Upper Intermediate]
-<br>
-**Polish** [Advanced]
-<br>
-**Russian** [Proficient]
-<br>
-**Ukrainian** [Native]
+- **English** [Upper Intermediate]
+- **Polish** [Advanced]
+- **Russian** [Proficient]
+- **Ukrainian** [Native]
 
-## I code 💻
+## 💻 I code 
 
-**HTML5**
-<br>
-**CSS3**
-<br>
-**JavaScript**
-<br>
-**React**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React**
 
-## Contact Me ☎️
+## ☎️ Contact Me 
 
 [Mail Me][link_mail] | [LinkedIn][link_linkedin]
 
