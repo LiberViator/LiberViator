@@ -1,6 +1,6 @@
 ![alt text][img_header]
 
-# Hi, I'm Nazar 🙋🏻‍♂️
+<!-- # Hi, I'm Nazar 🙋🏻‍♂️ -->
 
 I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
 
