@@ -1,4 +1,4 @@
-![Profile header][img_header]
+![Hi, I'm Nazar][img_header]
 
 <!-- # Hi, I'm Nazar 🙋🏻‍♂️ -->
 
