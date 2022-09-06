@@ -1,3 +1,5 @@
+![alt text][img_header]
+
 # Hi, I'm Nazar 🙋🏻‍♂️
 
 I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
@@ -28,3 +30,6 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [link_project]: https://github.com/LiberViator/ecommerce-website
 [link_mail]: mailto:nazar.poplavsky@gmail.com
 [link_linkedin]: https://www.linkedin.com/in/npko/
+
+<!-- Images -->
+[img_header]: assets/header.svg
