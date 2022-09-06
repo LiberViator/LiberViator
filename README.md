@@ -10,13 +10,10 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## 🎙 I speak 
 
-![asterisk][img_asterisk]　**English** [Upper Intermediate]
-  
-![asterisk][img_asterisk]　**Polish** [Advanced]
-  
-![asterisk][img_asterisk]　**Russian** [Proficient]
-  
-![asterisk][img_asterisk]　**Ukrainian** [Native]
+- **English** [Upper Intermediate]  
+- **Polish** [Advanced]  
+- **Russian** [Proficient]  
+- **Ukrainian** [Native]
 
 ## 💻 I code 
 
@@ -36,4 +33,3 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 <!-- Images -->
 [img_header]: assets/header.svg
-[img_asterisk]: assets/asterisk.svg
