@@ -1,4 +1,4 @@
-![alt text][img_header]
+![Profile header][img_header]
 
 <!-- # Hi, I'm Nazar 🙋🏻‍♂️ -->
 
@@ -10,13 +10,13 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## 🎙 I speak 
 
-![alt text][img_asterisk] **English** [Upper Intermediate]
+![asterisk][img_asterisk] **English** [Upper Intermediate]
 <br>
-![alt text][img_asterisk] **Polish** [Advanced]
+![asterisk][img_asterisk] **Polish** [Advanced]
 <br>
-![alt text][img_asterisk] **Russian** [Proficient]
+![asterisk][img_asterisk] **Russian** [Proficient]
 <br>
-![alt text][img_asterisk] **Ukrainian** [Native]
+![asterisk][img_asterisk] **Ukrainian** [Native]
 
 ## 💻 I code 
 
