@@ -10,13 +10,13 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## 🎙 I speak 
 
-![asterisk][img_asterisk] **English** [Upper Intermediate]
-<br>
-![asterisk][img_asterisk] **Polish** [Advanced]
-<br>
-![asterisk][img_asterisk] **Russian** [Proficient]
-<br>
-![asterisk][img_asterisk] **Ukrainian** [Native]
+![asterisk][img_asterisk]　**English** [Upper Intermediate]
+  
+![asterisk][img_asterisk]　**Polish** [Advanced]
+  
+![asterisk][img_asterisk]　**Russian** [Proficient]
+  
+![asterisk][img_asterisk]　**Ukrainian** [Native]
 
 ## 💻 I code 
 
