@@ -36,3 +36,4 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 <!-- Images -->
 [img_header]: assets/header.svg
+[img_asterisk]: assets/asterisk.svg
