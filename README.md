@@ -8,21 +8,21 @@ I'm interested in creating an appearance and functionality for websites & web ap
 <br>
 [E-commerce hiking website][link_project]
 
-## 🎙 I speak 
+## 🎙 I speak 
 
 - **English** [Upper Intermediate]  
 - **Polish** [Advanced]  
 - **Russian** [Proficient]  
 - **Ukrainian** [Native]
 
-## 💻 I code 
+## 💻 I code 
 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
 - **React**
 
-## ☎️ Contact Me 
+## ☎️ Contact Me 
 
 [Mail Me][link_mail] | [LinkedIn][link_linkedin]
 
