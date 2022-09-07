@@ -10,9 +10,9 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## 🎙 I speak 
 
-- **English** [Upper Intermediate]  
-- **Polish** [Advanced]  
-- **Russian** [Proficient]  
+- **English** [B2]  
+- **Polish** [C1]  
+- **Russian** [C2]  
 - **Ukrainian** [Native]
 
 ## 💻 I code 
