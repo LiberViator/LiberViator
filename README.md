@@ -24,7 +24,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## ☎️ Contact Me 
 
-[![Gmail][img_gmail]][link_mail] [![LinkedIn][img_linkedin]][link_linkedin]
+[![Mail][img_gmail]][link_mail] [![LinkedIn][img_linkedin]][link_linkedin]
 
 <!-- Links -->
 [link_project]: https://github.com/LiberViator/ecommerce-website
