@@ -36,3 +36,5 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [img_header]: assets/header.svg
 [img_gmail]: assets/gmail.svg
 [img_linkedin]: assets/linkedin.svg
+
+<!-- Icons made by https://github.com/coreui/coreui-icons -->
