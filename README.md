@@ -24,7 +24,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## ☎️ Contact Me 
 
-[Mail Me][link_mail] | [LinkedIn][link_linkedin]
+<!-- [Mail Me][link_mail] | [LinkedIn][link_linkedin] -->
 [![Mail][img_gmail]][link_mail] [![LinkedIn][img_linkedin]][link_linkedin]
 
 <!-- Links -->
