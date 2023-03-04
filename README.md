@@ -4,9 +4,9 @@
 
 I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
 
-**Check my last project** 👇
+<!-- **Check my last project** 👇
 <br>
-[E-commerce hiking website][link_project]
+[E-commerce hiking website][link_project] -->
 
 ## 🎙 I speak 
 
