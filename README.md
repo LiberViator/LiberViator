@@ -11,7 +11,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 ## 🎙 I speak 
 
 - **English** (B2)  
-- **Polish** (C1)  
+- **Polish** (C2)  
 - **Russian** (C2)  
 - **Ukrainian** (Native)
 
@@ -29,7 +29,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 <!-- Links -->
 [link_project]: https://github.com/LiberViator/ecommerce-website
-[link_mail]: mailto:nazar.poplavsky@gmail.com
+[link_mail]: mailto:hej@nazario.dev
 [link_linkedin]: https://www.linkedin.com/in/npko/
 
 <!-- Images -->
