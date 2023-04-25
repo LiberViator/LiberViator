@@ -1,3 +1,4 @@
+![Hi, I'm Nazar][img_header_top]
 ![Hi, I'm Nazar][img_header]
 
 <!-- # Hi, I'm Nazar 🙋🏻‍♂️ -->
@@ -36,6 +37,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [link_sass]: https://sass-lang.com/
 
 <!-- Images -->
+[img_header_top]: assets/header_top.svg
 [img_header]: assets/header.svg
 [img_gmail]: assets/gmail.svg
 [img_linkedin]: assets/linkedin.svg
