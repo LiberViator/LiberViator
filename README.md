@@ -23,12 +23,13 @@ I'm interested in creating an appearance and functionality for websites & web ap
 - **React**
 
 ## 📦 My stack
-[icon_javascript]: https://www.javascript.com/
-[icon_react]: https://react.dev/
-[icon_svelte]: https://svelte.dev/
-[icon_astro]: https://astro.build/
-[icon_tailwind]: https://tailwindcss.com/
-[icon_sass]: https://sass-lang.com/
+
+[![JavaScript][icon_javascript]][link_javascript]
+[![React][icon_react]][link_react]
+[![Svelte][icon_svelte]][link_svelte]
+[![Astro][icon_astro]][link_astro]
+[![TailwindCSS][icon_tailwind]][link_tailwind]
+[![Sass][icon_sass]][link_sass]
 
 ## ☎️ Contact 
 
@@ -38,6 +39,12 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [link_project]: https://github.com/LiberViator/ecommerce-website
 [link_mail]: mailto:hej@nazario.dev
 [link_linkedin]: https://www.linkedin.com/in/npko/
+[link_javascript]: https://www.javascript.com/
+[link_react]: https://react.dev/
+[link_svelte]: https://svelte.dev/
+[link_astro]: https://astro.build/
+[link_tailwind]: https://tailwindcss.com/
+[link_sass]: https://sass-lang.com/
 
 <!-- Images -->
 [img_header]: assets/header.svg
