@@ -20,11 +20,10 @@ I'm interested in creating an appearance and functionality for websites & web ap
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **React**
 
 ## 📦 My stack
 
-[![JavaScript][icon_javascript]][link_javascript] [![React][icon_react]][link_react] [![Svelte][icon_svelte]][link_svelte] [![Astro][icon_astro]][link_astro] [![TailwindCSS][icon_tailwind]][link_tailwind] [![Sass][icon_sass]][link_sass]
+[![JavaScript][icon_javascript]][link_javascript] [![React][icon_react]][link_react] [![Svelte][icon_svelte]][link_svelte] [![Astro][icon_astro]][link_astro] [![Vite][icon_vite]][link_vite] [![TailwindCSS][icon_tailwind]][link_tailwind] [![Sass][icon_sass]][link_sass]
 
 ## ☎️ Contact 
 
@@ -38,6 +37,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [link_react]: https://react.dev/
 [link_svelte]: https://svelte.dev/
 [link_astro]: https://astro.build/
+[link_vite]: https://vitejs.dev/
 [link_tailwind]: https://tailwindcss.com/
 [link_sass]: https://sass-lang.com/
 
@@ -51,6 +51,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [icon_react]: assets/react.svg
 [icon_svelte]: assets/svelte.svg
 [icon_astro]: assets/astro.svg
+[icon_vite]: assets/vite.svg
 [icon_tailwind]: assets/tailwind.svg
 [icon_sass]: assets/sass.svg
 
