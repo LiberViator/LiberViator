@@ -24,12 +24,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 
 ## 📦 My stack
 
-[![JavaScript][icon_javascript]][link_javascript] 
-[![React][icon_react]][link_react] 
-[![Svelte][icon_svelte]][link_svelte] 
-[![Astro][icon_astro]][link_astro] 
-[![TailwindCSS][icon_tailwind]][link_tailwind] 
-[![Sass][icon_sass]][link_sass]
+[![JavaScript][icon_javascript]][link_javascript] [![React][icon_react]][link_react] [![Svelte][icon_svelte]][link_svelte] [![Astro][icon_astro]][link_astro] [![TailwindCSS][icon_tailwind]][link_tailwind] [![Sass][icon_sass]][link_sass]
 
 ## ☎️ Contact 
 
