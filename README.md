@@ -15,12 +15,6 @@ I'm interested in creating an appearance and functionality for websites & web ap
 - **Russian** (C2)  
 - **Ukrainian** (Native)
 
-## 💻 I code 
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-
 ## 📦 My stack
 
 [![JavaScript][icon_javascript]][link_javascript] [![React][icon_react]][link_react] [![Svelte][icon_svelte]][link_svelte] [![Astro][icon_astro]][link_astro] [![Vite][icon_vite]][link_vite] [![TailwindCSS][icon_tailwind]][link_tailwind] [![Sass][icon_sass]][link_sass]
