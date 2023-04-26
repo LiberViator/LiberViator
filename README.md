@@ -2,7 +2,7 @@
   <img src="assets/header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 <br/>
-I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
+I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with.
 
 <!-- **Check my last project** 👇
 <br>
@@ -15,7 +15,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 - **Russian** (C2)  
 - **Ukrainian** (Native)
 
-## 📦 My stack
+## 📦 My stack
 
 [![JavaScript][icon_javascript]][link_javascript] [![React][icon_react]][link_react] [![Svelte][icon_svelte]][link_svelte] [![Astro][icon_astro]][link_astro] [![Vite][icon_vite]][link_vite] [![TailwindCSS][icon_tailwind]][link_tailwind] [![Sass][icon_sass]][link_sass]
 
