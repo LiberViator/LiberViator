@@ -1,3 +1,6 @@
+<div style="width: 100%;">
+  <img src="assets/header_top.svg" style="width: 100%; height: 40px;" alt="Click to see the source">
+</div>
 
 <p align="center" width="100%">
   <img width="40" height="40" src="assets/header_corner.svg"/><img width="calc(100% - 80px)" height="40" src="assets/header_top.svg"/><img width="40" height="40" src="assets/header_corner.svg"/>
