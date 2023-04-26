@@ -15,7 +15,6 @@
 						rgba(219, 234, 254, 0) 100%
 					);
 					border-radius: 20px 20px 0px 0px;
-					padding: 96px 0 72px 80px;
 					display: flex;
           flex-direction: column;
 					width: 100%;
@@ -26,14 +25,14 @@
           font-family: "Montserrat";
 					font-style: normal;
 					font-weight: 700;
-					font-size: 80px;
+					font-size: 24px;
 					line-height: 125%;
         }
         h2 {
           font-family: "Montserrat";
 					font-style: normal;
 					font-weight: 300;
-					font-size: 32px;
+					font-size: 16px;
 					line-height: 125%;
         }
 			</style>
