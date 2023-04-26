@@ -25,7 +25,7 @@
 					background: linear-gradient(
 						180deg,
 						#bfdbfe 0%,
-						rgba(219, 234, 254, 0) 100%
+						#DBEAFE 100%
 					);
 					padding: 24px 32px;
 					border-radius: 20px;
@@ -55,10 +55,10 @@
 					}
 					h1 {
 						margin-bottom: 16px;
-						font-size: 64px;
+						font-size: 56px;
 					}
 					h2 {
-						font-size: 32px;
+						font-size: 24px;
 					}
 				}
 			</style>
