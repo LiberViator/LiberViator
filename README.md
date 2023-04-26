@@ -1,4 +1,3 @@
-![Hi, I'm Nazar][img_header_top]
 <img width="40px" height="40px" src="assets/header_corner.svg"/><img width="100%" height="40px" src="assets/header_top.svg"/><img width="40px" height="40px" src="assets/header_corner.svg"/>
 
 
