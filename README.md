@@ -16,7 +16,7 @@ I'm interested in creating an appearance and functionality for websites & web ap
 - **Ukrainian** (Native)
 
 
-## 📦 Programms
+## 🕹 Programs I use
 
 [![VSCode][icon_vscode]][link_vscode] [![Figma][icon_figma]][link_figma] [![Notion][icon_notion]][link_notion]
 
