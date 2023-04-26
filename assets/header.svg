@@ -7,11 +7,6 @@
 >
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-            <defs>
-                <style>
-                @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700");
-                </style>
-            </defs>
 			<style>
 				* {
 					margin: 0;
@@ -22,6 +17,8 @@
 				}
 
 				.header {
+					font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+						Helvetica, Arial, sans-serif;
 					background: linear-gradient(
 						180deg,
 						#bfdbfe 0%,
@@ -36,9 +33,8 @@
 					align-items: flex-start;
 					color: black;
 				}
-        h1 {
+				h1 {
 					margin-left: 32px;
-					font-family: "Montserrat";
 					font-style: normal;
 					font-weight: 700;
 					font-size: 32px;
@@ -46,7 +42,6 @@
 				}
 				h2 {
 					margin-left: 24px;
-					font-family: "Montserrat";
 					font-style: normal;
 					font-weight: 300;
 					font-size: 20px;
@@ -64,12 +59,12 @@
 					.header {
 						padding: 32px 24px;
 					}
-          h1 {
-            font-size: 64px;
-          }
-          h2 {
-            font-size: 32px;
-          }
+					h1 {
+						font-size: 64px;
+					}
+					h2 {
+						font-size: 32px;
+					}
 				}
 			</style>
 			<div class="header">
