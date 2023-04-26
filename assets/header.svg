@@ -47,7 +47,7 @@
 			</style>
 			<div class="header">
 				<svg
-					width="100%"
+					width="517"
 					height="76"
 					viewBox="0 0 517 76"
 					fill="none"
@@ -59,7 +59,7 @@
 					/>
 				</svg>
 				<svg
-					width="100%"
+					width="363"
 					height="31"
 					viewBox="0 0 363 31"
 					fill="none"
@@ -70,9 +70,6 @@
 						fill="black"
 					/>
 				</svg>
-
-				<!-- <h1>Hey, I'm Nazar</h1>
-				<h2>J. Front-End Developer</h2> -->
 			</div>
 		</div>
 	</foreignObject>
