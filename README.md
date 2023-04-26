@@ -1,8 +1,6 @@
 
-<p align="center">
-  <img width="40" height="40" src="assets/header_corner.svg"/>
-  <img width="calc(100% - 100px)" height="40" src="assets/header_top.svg"/>
-  <img width="40" height="40" src="assets/header_corner.svg"/>
+<p align="center" width="100%">
+  <img width="40" height="40" src="assets/header_corner.svg"/><img width="calc(100% - 80px)" height="40" src="assets/header_top.svg"/><img width="40" height="40" src="assets/header_corner.svg"/>
 </p>
 
 <img width="100%" height="40px" src="assets/header_top.svg"/>
