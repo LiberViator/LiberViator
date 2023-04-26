@@ -1,17 +1,6 @@
 <div style="width: 100%;">
-  <img src="assets/header_top.svg" style="width: 100%; height: 40px;" alt="Click to see the source">
+  <img src="assets/header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
-<p align="center" width="100%">
-  <img width="40" height="40" src="assets/header_corner.svg"/><img width="calc(100% - 80px)" height="40" src="assets/header_top.svg"/><img width="40" height="40" src="assets/header_corner.svg"/>
-</p>
-
-<img width="100%" height="40px" src="assets/header_top.svg"/>
-<img width="100%" height="40px" src="assets/header_top.svg" style="max-width: 100%; max-height: 40px"/>
-<img src="assets/header_top.svg" style="max-width: 100%; max-height: 40px"/>
-![Hi, I'm Nazar][img_header]
-
-<!-- # Hi, I'm Nazar 🙋🏻‍♂️ -->
 
 I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
 
