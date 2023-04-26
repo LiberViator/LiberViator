@@ -1,4 +1,5 @@
 <div style="width: 100%;">
+  <img src="assets/header_top.svg" style="width: 100%;" alt="Click to see the source">
   <img src="assets/header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
