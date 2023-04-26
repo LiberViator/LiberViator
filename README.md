@@ -15,6 +15,11 @@ I'm interested in creating an appearance and functionality for websites & web ap
 - **Russian** (C2)  
 - **Ukrainian** (Native)
 
+
+## 📦 Programms
+
+[![VSCode][icon_vscode]][link_vscode] [![Figma][icon_figma]][link_figma] [![Notion][icon_notion]][link_notion]
+
 ## 📦 My stack
 
 [![JavaScript][icon_javascript]][link_javascript] [![React][icon_react]][link_react] [![Svelte][icon_svelte]][link_svelte] [![Astro][icon_astro]][link_astro] [![Vite][icon_vite]][link_vite] [![TailwindCSS][icon_tailwind]][link_tailwind] [![Sass][icon_sass]][link_sass]
@@ -27,6 +32,11 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [link_project]: https://github.com/LiberViator/ecommerce-website
 [link_mail]: mailto:hej@nazario.dev
 [link_linkedin]: https://www.linkedin.com/in/npko/
+
+[link_vscode]: https://code.visualstudio.com/
+[link_figma]: https://www.figma.com/
+[link_notion]: https://www.notion.so/
+
 [link_javascript]: https://www.javascript.com/
 [link_react]: https://react.dev/
 [link_svelte]: https://svelte.dev/
@@ -42,6 +52,10 @@ I'm interested in creating an appearance and functionality for websites & web ap
 [img_linkedin]: assets/linkedin.svg
 
 <!-- Icons -->
+[icon_vscode]: assets/vscode.svg
+[icon_figma]: assets/figma.svg
+[icon_notion]: assets/notion.svg
+
 [icon_javascript]: assets/javascript.svg
 [icon_react]: assets/react.svg
 [icon_svelte]: assets/svelte.svg
