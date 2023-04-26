@@ -25,6 +25,7 @@
 					color: black;
 				}
         h1 {
+				margin-left: 24px;
           font-family: "Montserrat";
 					font-style: normal;
 					font-weight: 700;
@@ -32,6 +33,7 @@
 					line-height: 125%;
         }
         h2 {
+				margin-left: 24px;
           font-family: "Montserrat";
 					font-style: normal;
 					font-weight: 300;
