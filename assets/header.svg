@@ -24,7 +24,7 @@
 						#bfdbfe 0%,
 						rgba(219, 234, 254, 0) 100%
 					);
-					padding: 32px 24px 24px;
+					padding: 24px 16px;
 					border-radius: 20px 20px 0px 0px;
 					display: flex;
 					flex-direction: column;
@@ -48,6 +48,11 @@
 					font-weight: 300;
 					font-size: clamp(16px, 48%, 64px);
 					line-height: 100%;
+				}
+				@media only screen and (min-width: 640px) {
+					.header {
+						padding: 32px 24px;
+					}
 				}
 			</style>
 			<div class="header">
