@@ -1,5 +1,5 @@
 ![Hi, I'm Nazar][img_header_top]
-<img src="assets/header_top.svg" style="max-width: 100%; max-height: 40px"/>
+<img width="100%" src="assets/header_top.svg" style="max-width: 100%; max-height: 40px"/>
 ![Hi, I'm Nazar][img_header]
 
 <!-- # Hi, I'm Nazar 🙋🏻‍♂️ -->
