@@ -1,7 +1,7 @@
 <div style="width: 100%;">
   <img src="assets/header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
+<br/>
 I'm interested in creating an appearance and functionality for websites & web applications. I love the process of seeking a solution to the problems I face with. Currently, learning **JavaScript** & **React**.
 
 <!-- **Check my last project** 👇
